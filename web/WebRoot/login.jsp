@@ -23,8 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    login <br>
-    github test
-    local modify login
+    login 
+    github test<br>
   </body>
 </html>
